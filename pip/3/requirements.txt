@@ -1,0 +1,9 @@
+flask_caching
+# Pinned because 3.11.1 is required for unknown field support, Atlas protos break with 3.14
+protobuf==3.11.1
+# Older tornado required for opentracing_instrumentation
+tornado==5.1.1
+jaeger-client
+opentracing-instrumentation
+flask-opentracing
+uwsgidecorators

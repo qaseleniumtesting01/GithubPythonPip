@@ -1,0 +1,5 @@
+python-dotenv==0.9.1
+# PyJWT and cryptography used for IAP verification
+PyJWT==1.7.1
+cryptography==2.8
+j2cli==0.3.10
